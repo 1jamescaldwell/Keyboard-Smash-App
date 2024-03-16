@@ -14,6 +14,6 @@ To use the program:
 
 Below are known "bugs," aka other ways your toddler can mess things up while keyboard smashing:
 * The power button on your computer is not disabled. Follow this tutorial to disable this button manually in windows: https://www.howtogeek.com/722865/how-to-disable-your-pcs-power-button-on-windows-10/
-* Any trackpad shortcuts are not disabled. My computer has 3/4 finger swipe actions that would minimize the app. To disable these: press windows button -> trackpad settings -> three finger gestures -> do nothing.
+* Any trackpad shortcuts are not disabled. My computer has finger swipe actions that would minimize the app. To disable these: press windows button -> trackpad settings -> finger gestures -> do nothing.
 
 App's functionality is complete March 2024. There are lots of improvements to the GUI that I plan to make.
